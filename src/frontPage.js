@@ -50,7 +50,7 @@ export const FrontPage = () => {
 
     return (
         <Box display="flex" justifyContent="center" p={1}>
-            <Box width="35%">
+            <Box width={600}>
                 <Paper>
                     <Box display="flex" justifyContent="center" pt={3}>
 
