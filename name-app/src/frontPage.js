@@ -27,7 +27,7 @@ export const FrontPage = () => {
             var found = -1;
 
             for (var i = 0; i < names.length; i++) {
-                if (names[i].name === search) {
+                if (names[i].name.toUpperCase() === search.toUpperCase()) {
                     found = i;
                 }
             }
