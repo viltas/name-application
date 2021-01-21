@@ -1,6 +1,9 @@
 # Name Application
 ## Solita Dev Academy 2021 Exercise
 
+[The app on Heroku](https://name-app-react.herokuapp.com)
+
+
 The application is used to view and sort the most popular first names of Solita employees. The name data is stored in a json file.
 
 
